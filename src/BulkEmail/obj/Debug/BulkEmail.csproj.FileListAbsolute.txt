@@ -1,0 +1,6 @@
+C:\M3\ManMohan\Personal\CV\dotnet-exercise-v1.1.0\src\BulkEmail\bin\Debug\BulkEmail.dll
+C:\M3\ManMohan\Personal\CV\dotnet-exercise-v1.1.0\src\BulkEmail\bin\Debug\BulkEmail.pdb
+C:\M3\ManMohan\Personal\CV\dotnet-exercise-v1.1.0\src\BulkEmail\obj\Debug\BulkEmail.csprojResolveAssemblyReference.cache
+C:\M3\ManMohan\Personal\CV\dotnet-exercise-v1.1.0\src\BulkEmail\obj\Debug\BulkEmail.csproj.CoreCompileInputs.cache
+C:\M3\ManMohan\Personal\CV\dotnet-exercise-v1.1.0\src\BulkEmail\obj\Debug\BulkEmail.dll
+C:\M3\ManMohan\Personal\CV\dotnet-exercise-v1.1.0\src\BulkEmail\obj\Debug\BulkEmail.pdb
